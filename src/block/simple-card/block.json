@@ -1,0 +1,10 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "pascal20997/simple-card",
+	"title": "Simple Card",
+	"category": "widgets",
+	"description": "Simple card for block editor.",
+	"textdomain": "simple-card",
+	"editorScript": "file:./index.js"
+}

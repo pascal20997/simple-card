@@ -1,0 +1,10 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "pascal20997/simple-card-body",
+	"title": "Simple Card Header",
+	"category": "widgets",
+	"description": "Body element for a simple card block.",
+	"textdomain": "simple-card-body",
+	"editorScript": "file:./index.js"
+}
